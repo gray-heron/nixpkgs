@@ -53,6 +53,6 @@ buildPythonPackage rec {
     homepage = "https://github.com/cantools/cantools";
     description = "CAN bus tools.";
     license = licenses.mit;
-    maintainers = with maintainers; [ sorki ];
+    maintainers = with maintainers; [ gray-heron ];
   };
 }

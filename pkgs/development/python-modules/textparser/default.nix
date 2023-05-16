@@ -37,6 +37,6 @@ buildPythonPackage rec {
     homepage = "https://github.com/eerimoq/textparser";
     description = "A text parser.";
     license = licenses.mit;
-    maintainers = with maintainers; [ sorki ];
+    maintainers = with maintainers; [ gray-heron ];
   };
 }
