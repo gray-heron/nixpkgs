@@ -5890,8 +5890,8 @@
     githubId = 4656860;
     name = "Gaute Ravndal";
   };
-  grayheron = {
-    email = "ave@cezar.info";
+  gray-heron = {
+    email = "ave+nix@cezar.info";
     github = "gray-heron";
     githubId = 7032646;
     name = "Cezary Siwek";
